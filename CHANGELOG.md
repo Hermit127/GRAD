@@ -26,3 +26,9 @@
 
 - Prepared the initial repository snapshot for private review. Public visibility requires explicit maintainer approval.
 - Replaced raw HTML layout and externally loaded badges with portable Markdown and local badge images for local previews.
+
+## GitHub README layout correction — 2026-10-19
+
+- Replaced the standalone GRAD heading with the exact paper title: GRAD: Graph-Structured Antibody Defense for LLM Agents.
+- Restored the centered header, compact badges/navigation, centered figure, inline return links and collapsible sections used by the reference layout.
+- Verified GitHub GFM rendering and private repository visibility.

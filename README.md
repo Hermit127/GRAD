@@ -1,36 +1,52 @@
-# GRAD
+<a id="readme-top"></a>
 
-**Graph-Structured Antibody Defense for LLM Agents**
+<div align="center">
 
-*Connect execution evidence. Acquire and reuse detection experts.*
+<h1><em>GRAD: Graph-Structured Antibody Defense for LLM Agents</em></h1>
 
-Execution-graph attack detection and continual adaptation for LLM agents.
+<p><em>Connect execution evidence. Acquire and reuse detection experts.</em></p>
 
-[![arXiv: 2610.22828](assets/badge-arxiv.png)](https://arxiv.org/abs/2610.22828) [![Offline result reproduction](assets/badge-reproduction.png)](#quick-start) [![MIT License](assets/badge-license.png)](LICENSE)
+<p>Execution-graph attack detection and continual adaptation for LLM agents.</p>
 
-**Tianqi Song (1) · Jiawei Du (2) · Xuemei Jia (1) · Zheng Wang (1)**
+<p>
+  <a href="https://arxiv.org/abs/2610.22828"><img src="assets/badge-arxiv.png" alt="arXiv: 2610.22828" height="20"></a>
+  <a href="#quick-start"><img src="assets/badge-reproduction.png" alt="Offline result reproduction" height="20"></a>
+  <a href="LICENSE"><img src="assets/badge-license.png" alt="MIT License" height="20"></a>
+</p>
 
-(1) Wuhan University  
-(2) Agency for Science, Technology and Research (A*STAR)
+<p>
+  Tianqi Song<sup>1</sup> &nbsp;·&nbsp; Jiawei Du<sup>2</sup> &nbsp;·&nbsp;
+  Xuemei Jia<sup>1</sup> &nbsp;·&nbsp; Zheng Wang<sup>1</sup><br>
+  <sub><sup>1</sup>Wuhan University &nbsp; <sup>2</sup>Agency for Science, Technology and Research (A*STAR)</sub>
+</p>
 
-[Paper](https://arxiv.org/abs/2610.22828) · [Overview](#from-agent-operations-to-attack-evidence) · [Results](#reported-results) · [Quick start](#quick-start) · [Citation](#citation)
+<p>
+  <a href="https://arxiv.org/abs/2610.22828">Paper</a> &nbsp;|&nbsp;
+  <a href="#from-agent-operations-to-attack-evidence">Overview</a> &nbsp;|&nbsp;
+  <a href="#reported-results">Results</a> &nbsp;|&nbsp;
+  <a href="#quick-start">Quick start</a> &nbsp;|&nbsp;
+  <a href="#citation">Citation</a>
+</p>
 
-![GRAD overview: execution graph construction, semantic-structural encoding, and snapshot expert acquisition and routing](assets/method.png)
+</div>
 
-*SSUM aggregates operation evidence; CAA acquires and reuses task-specific detection experts.*
+<p align="center">
+  <a href="assets/method.png"><img src="assets/method.png" alt="GRAD overview: execution graph construction, semantic-structural encoding, and snapshot expert acquisition and routing" width="96%"></a>
+</p>
+<p align="center"><sub>SSUM aggregates operation evidence; CAA acquires and reuses task-specific detection experts.</sub></p>
 
-[Back to top](#grad)
+<a id="news"></a>
 
-## News
+## News <sub><a href="#readme-top">top</a></sub>
 
 | Date | Update |
 | --- | --- |
 | 2026-10-19 | Prepared the repository snapshot for private review, with offline reproduction commands and maintenance documentation. Public release awaits maintainer approval. |
 | 2026-10-16 | [GRAD v1](https://arxiv.org/abs/2610.22828v1) is available on arXiv. |
 
-[Back to top](#grad)
+<a id="from-agent-operations-to-attack-evidence"></a>
 
-## From Agent Operations to Attack Evidence
+## From Agent Operations to Attack Evidence <sub><a href="#readme-top">top</a></sub>
 
 Memory poisoning and decomposition attacks can distribute malicious evidence across an agent's operations. A detector must connect earlier information to later actions, then adapt as task contexts change.
 
@@ -56,9 +72,9 @@ A local pre-execution gate supports blocking and replanning in the evaluated age
 
 ---
 
-[Back to top](#grad)
+<a id="reported-results"></a>
 
-## Reported Results
+## Reported Results <sub><a href="#readme-top">top</a></sub>
 
 | Evaluation | GRAD result | Protocol |
 | --- | --- | --- |
@@ -68,9 +84,9 @@ A local pre-execution gate supports blocking and replanning in the evaluated age
 
 Static and matched decision-time results use different observation protocols. Cross-dataset and family-isolated continual-learning results are reported separately. See the [reproduction guide](docs/REPRODUCIBILITY.md) and paper for protocol definitions, family-isolated outcomes and negative controls.
 
-[Back to top](#grad)
+<a id="quick-start"></a>
 
-## Quick Start
+## Quick Start <sub><a href="#readme-top">top</a></sub>
 
 Use Python 3.11 or 3.12. Run the following commands from the repository root.
 
@@ -103,9 +119,9 @@ The W1 command checks nine runs on 232 examples, including AUROC and development
 
 These commands reanalyze saved outcomes and scores. They do not retrain models, rerun online agents or regenerate W1 bootstrap confidence intervals. See [validation records](docs/VALIDATION.md) for the checks and environment actually tested.
 
-[Back to top](#grad)
+<a id="training-and-evaluation"></a>
 
-## Training and Evaluation
+## Training and Evaluation <sub><a href="#readme-top">top</a></sub>
 
 Install `requirements-models.txt` with a PyTorch wheel appropriate for your hardware. Recorded GPU experiments used PyTorch 2.2.2+cu121; the dependency files specify package ranges rather than an exact training environment lock.
 
@@ -118,9 +134,12 @@ Install `requirements-models.txt` with a PyTorch wheel appropriate for your hard
 
 Training data and weights are not included in this checkout. Complete CAA retraining requires additional stream inputs and expert artifacts described in the guides.
 
-[Back to top](#grad)
+<a id="repository-guide"></a>
 
-## Repository Guide
+## Repository Guide <sub><a href="#readme-top">top</a></sub>
+
+<details>
+<summary><strong>Browse the repository layout</strong></summary>
 
 ```text
 assets/                   Method overview
@@ -135,22 +154,29 @@ tests/                    Offline release regression checks
 
 The research layout preserves internal imports. The [paper-to-code map](docs/PAPER_TO_CODE.md) identifies reported configurations and historical candidates. Unvalidated October 15 MCP iterations are outside this paper snapshot.
 
-[Back to top](#grad)
+</details>
 
-## Release Status
+<a id="release-status"></a>
 
-This snapshot accompanies [arXiv:2610.22828v1](https://arxiv.org/abs/2610.22828v1) and is prepared for private maintainer review. GitHub remote setup is pending an authenticated connection. Public visibility requires explicit maintainer approval; no public release or paper tag has been created.
+## Release Status <sub><a href="#readme-top">top</a></sub>
+
+<details>
+<summary><strong>Private review and artifact availability</strong></summary>
+
+This snapshot accompanies [arXiv:2610.22828v1](https://arxiv.org/abs/2610.22828v1) and is prepared for private maintainer review. The repository is available for private review at [Hermit127/GRAD](https://github.com/Hermit127/GRAD). Public visibility requires explicit maintainer approval; no public release or paper tag has been created.
 
 - **Included:** original research source, numeric T3 outcomes, W1 labels and scores, frozen thresholds, reference statistics and offline checks.
 - **Not included:** raw benchmark text, converted training graphs, full execution traces, model weights and complete CAA expert pools. Their public distribution has not been finalized; there is no public artifact download link yet.
-- **Before publication:** complete third-party source attribution and permission review, select the repository destination and decide data/weight distribution.
-- **CI:** offline checks are configured for Python 3.11 and 3.12. GitHub-hosted CI has not run yet; local checks are documented in [VALIDATION.md](docs/VALIDATION.md).
+- **Before publication:** complete third-party source attribution and permission review, decide data/weight distribution and obtain maintainer approval for public visibility.
+- **CI:** offline checks are configured for Python 3.11 and 3.12. Local validation results and their tested environment are documented in [VALIDATION.md](docs/VALIDATION.md).
 
 The [maintenance policy](docs/MAINTENANCE.md) describes fixed paper-version tags and subsequent software releases.
 
-[Back to top](#grad)
+</details>
 
-## Citation
+<a id="citation"></a>
+
+## Citation <sub><a href="#readme-top">top</a></sub>
 
 If you use GRAD in your research, please cite:
 
@@ -168,16 +194,16 @@ If you use GRAD in your research, please cite:
 
 Machine-readable citation metadata is available in [CITATION.cff](CITATION.cff).
 
-[Back to top](#grad)
+<a id="contributing-and-contact"></a>
 
-## Contributing and Contact
+## Contributing and Contact <sub><a href="#readme-top">top</a></sub>
 
 Reproduction questions, corrections and focused improvements are welcome. Open an issue with the paper version, code commit, environment and command, or submit a pull request following the [contribution guide](CONTRIBUTING.md).
 
 Contact: [2024302111167@whu.edu.cn](mailto:2024302111167@whu.edu.cn).
 
-[Back to top](#grad)
+<a id="license"></a>
 
-## License
+## License <sub><a href="#readme-top">top</a></sub>
 
 Original GRAD software and documentation are available under the [MIT License](LICENSE). Third-party code and data retain their applicable terms; see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). The software license and the paper's arXiv license are separate.
