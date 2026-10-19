@@ -1,0 +1,5 @@
+-r requirements-analysis.txt
+# Choose the PyTorch wheel appropriate for CPU/CUDA. The recorded GPU runs
+# used torch 2.2.2+cu121; no cross-version numerical equivalence is asserted.
+torch>=2.2
+torch-geometric>=2.5

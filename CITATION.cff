@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: If you use this research code, please cite the GRAD paper in preferred-citation.
+type: software
+title: 'GRAD: Graph-Structured Antibody Defense for LLM Agents'
+authors:
+- family-names: Song
+  given-names: Tianqi
+  affiliation: Wuhan University
+- family-names: Du
+  given-names: Jiawei
+  affiliation: Agency for Science, Technology and Research (A*STAR)
+- family-names: Jia
+  given-names: Xuemei
+  affiliation: Wuhan University
+- family-names: Wang
+  given-names: Zheng
+  affiliation: Wuhan University
+license: MIT
+preferred-citation:
+  type: article
+  title: 'GRAD: Graph-Structured Antibody Defense for LLM Agents'
+  authors:
+  - family-names: Song
+    given-names: Tianqi
+    affiliation: Wuhan University
+  - family-names: Du
+    given-names: Jiawei
+    affiliation: Agency for Science, Technology and Research (A*STAR)
+  - family-names: Jia
+    given-names: Xuemei
+    affiliation: Wuhan University
+  - family-names: Wang
+    given-names: Zheng
+    affiliation: Wuhan University
+  journal: arXiv
+  year: 2026
+  date-published: '2026-10-16'
+  url: https://arxiv.org/abs/2610.22828
+  identifiers:
+  - type: other
+    value: arXiv:2610.22828

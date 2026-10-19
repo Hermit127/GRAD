@@ -1,0 +1,3 @@
+# Lightweight offline reanalysis; no model inference or API clients.
+numpy>=1.24,<3
+scikit-learn>=1.3,<2

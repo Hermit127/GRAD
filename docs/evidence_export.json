@@ -1,0 +1,37 @@
+{
+  "source": "Submitted supplementary code package, 2026-09-26",
+  "exports": {
+    "evidence/t3/outcomes.json": {
+      "source_path": "code/project/LOGS/final_table4_g3trans/main/results.json",
+      "source_sha256": "dc3596831f492dbeaa62d2b266d0edfd8f3247b92127109f6bba165b7059142f",
+      "fields": [
+        "run_id",
+        "case_key",
+        "backbone",
+        "env",
+        "family",
+        "condition",
+        "arm",
+        "repeat",
+        "independent_harm",
+        "independent_completion",
+        "blocked",
+        "error (boolean)"
+      ]
+    },
+    "evidence/w1/": {
+      "source_paths": [
+        "code/project/LOGS/w1_fair_comparison/runs_srv/",
+        "code/project/LOGS/w1_final_confirmation/"
+      ],
+      "fields": "Numeric val/test labels and scores, frozen dev thresholds, archived expected statistics. Test group IDs replaced in sorted order; task IDs replaced by row number."
+    }
+  },
+  "exclusions": [
+    "Raw benchmark text and converted graphs",
+    "Third-party prompt module and catalog",
+    "Weights and training checkpoints",
+    "Unvalidated 2026-10-15 MCP experiments",
+    "Raw LLM response traces and budget logs"
+  ]
+}

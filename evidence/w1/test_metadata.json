@@ -1,0 +1,1162 @@
+[
+  {
+    "label": 1,
+    "group": "group0016",
+    "task_id": "case0000"
+  },
+  {
+    "label": 1,
+    "group": "group0002",
+    "task_id": "case0001"
+  },
+  {
+    "label": 1,
+    "group": "group0015",
+    "task_id": "case0002"
+  },
+  {
+    "label": 1,
+    "group": "group0046",
+    "task_id": "case0003"
+  },
+  {
+    "label": 1,
+    "group": "group0028",
+    "task_id": "case0004"
+  },
+  {
+    "label": 0,
+    "group": "group0000",
+    "task_id": "case0005"
+  },
+  {
+    "label": 0,
+    "group": "group0033",
+    "task_id": "case0006"
+  },
+  {
+    "label": 0,
+    "group": "group0029",
+    "task_id": "case0007"
+  },
+  {
+    "label": 0,
+    "group": "group0001",
+    "task_id": "case0008"
+  },
+  {
+    "label": 1,
+    "group": "group0006",
+    "task_id": "case0009"
+  },
+  {
+    "label": 1,
+    "group": "group0034",
+    "task_id": "case0010"
+  },
+  {
+    "label": 0,
+    "group": "group0056",
+    "task_id": "case0011"
+  },
+  {
+    "label": 0,
+    "group": "group0048",
+    "task_id": "case0012"
+  },
+  {
+    "label": 0,
+    "group": "group0043",
+    "task_id": "case0013"
+  },
+  {
+    "label": 1,
+    "group": "group0046",
+    "task_id": "case0014"
+  },
+  {
+    "label": 1,
+    "group": "group0044",
+    "task_id": "case0015"
+  },
+  {
+    "label": 1,
+    "group": "group0020",
+    "task_id": "case0016"
+  },
+  {
+    "label": 0,
+    "group": "group0018",
+    "task_id": "case0017"
+  },
+  {
+    "label": 0,
+    "group": "group0055",
+    "task_id": "case0018"
+  },
+  {
+    "label": 1,
+    "group": "group0001",
+    "task_id": "case0019"
+  },
+  {
+    "label": 0,
+    "group": "group0002",
+    "task_id": "case0020"
+  },
+  {
+    "label": 1,
+    "group": "group0020",
+    "task_id": "case0021"
+  },
+  {
+    "label": 1,
+    "group": "group0053",
+    "task_id": "case0022"
+  },
+  {
+    "label": 1,
+    "group": "group0051",
+    "task_id": "case0023"
+  },
+  {
+    "label": 0,
+    "group": "group0025",
+    "task_id": "case0024"
+  },
+  {
+    "label": 1,
+    "group": "group0033",
+    "task_id": "case0025"
+  },
+  {
+    "label": 0,
+    "group": "group0027",
+    "task_id": "case0026"
+  },
+  {
+    "label": 1,
+    "group": "group0006",
+    "task_id": "case0027"
+  },
+  {
+    "label": 1,
+    "group": "group0005",
+    "task_id": "case0028"
+  },
+  {
+    "label": 1,
+    "group": "group0044",
+    "task_id": "case0029"
+  },
+  {
+    "label": 1,
+    "group": "group0001",
+    "task_id": "case0030"
+  },
+  {
+    "label": 0,
+    "group": "group0021",
+    "task_id": "case0031"
+  },
+  {
+    "label": 1,
+    "group": "group0021",
+    "task_id": "case0032"
+  },
+  {
+    "label": 1,
+    "group": "group0018",
+    "task_id": "case0033"
+  },
+  {
+    "label": 0,
+    "group": "group0026",
+    "task_id": "case0034"
+  },
+  {
+    "label": 1,
+    "group": "group0011",
+    "task_id": "case0035"
+  },
+  {
+    "label": 1,
+    "group": "group0025",
+    "task_id": "case0036"
+  },
+  {
+    "label": 0,
+    "group": "group0010",
+    "task_id": "case0037"
+  },
+  {
+    "label": 1,
+    "group": "group0027",
+    "task_id": "case0038"
+  },
+  {
+    "label": 0,
+    "group": "group0034",
+    "task_id": "case0039"
+  },
+  {
+    "label": 1,
+    "group": "group0053",
+    "task_id": "case0040"
+  },
+  {
+    "label": 1,
+    "group": "group0007",
+    "task_id": "case0041"
+  },
+  {
+    "label": 1,
+    "group": "group0054",
+    "task_id": "case0042"
+  },
+  {
+    "label": 1,
+    "group": "group0011",
+    "task_id": "case0043"
+  },
+  {
+    "label": 1,
+    "group": "group0016",
+    "task_id": "case0044"
+  },
+  {
+    "label": 1,
+    "group": "group0020",
+    "task_id": "case0045"
+  },
+  {
+    "label": 1,
+    "group": "group0032",
+    "task_id": "case0046"
+  },
+  {
+    "label": 1,
+    "group": "group0054",
+    "task_id": "case0047"
+  },
+  {
+    "label": 1,
+    "group": "group0002",
+    "task_id": "case0048"
+  },
+  {
+    "label": 1,
+    "group": "group0005",
+    "task_id": "case0049"
+  },
+  {
+    "label": 1,
+    "group": "group0007",
+    "task_id": "case0050"
+  },
+  {
+    "label": 0,
+    "group": "group0053",
+    "task_id": "case0051"
+  },
+  {
+    "label": 1,
+    "group": "group0043",
+    "task_id": "case0052"
+  },
+  {
+    "label": 1,
+    "group": "group0028",
+    "task_id": "case0053"
+  },
+  {
+    "label": 1,
+    "group": "group0010",
+    "task_id": "case0054"
+  },
+  {
+    "label": 1,
+    "group": "group0052",
+    "task_id": "case0055"
+  },
+  {
+    "label": 1,
+    "group": "group0000",
+    "task_id": "case0056"
+  },
+  {
+    "label": 0,
+    "group": "group0052",
+    "task_id": "case0057"
+  },
+  {
+    "label": 1,
+    "group": "group0052",
+    "task_id": "case0058"
+  },
+  {
+    "label": 0,
+    "group": "group0044",
+    "task_id": "case0059"
+  },
+  {
+    "label": 1,
+    "group": "group0037",
+    "task_id": "case0060"
+  },
+  {
+    "label": 0,
+    "group": "group0054",
+    "task_id": "case0061"
+  },
+  {
+    "label": 0,
+    "group": "group0046",
+    "task_id": "case0062"
+  },
+  {
+    "label": 1,
+    "group": "group0006",
+    "task_id": "case0063"
+  },
+  {
+    "label": 1,
+    "group": "group0029",
+    "task_id": "case0064"
+  },
+  {
+    "label": 1,
+    "group": "group0042",
+    "task_id": "case0065"
+  },
+  {
+    "label": 1,
+    "group": "group0032",
+    "task_id": "case0066"
+  },
+  {
+    "label": 1,
+    "group": "group0029",
+    "task_id": "case0067"
+  },
+  {
+    "label": 1,
+    "group": "group0018",
+    "task_id": "case0068"
+  },
+  {
+    "label": 1,
+    "group": "group0046",
+    "task_id": "case0069"
+  },
+  {
+    "label": 1,
+    "group": "group0049",
+    "task_id": "case0070"
+  },
+  {
+    "label": 1,
+    "group": "group0015",
+    "task_id": "case0071"
+  },
+  {
+    "label": 1,
+    "group": "group0043",
+    "task_id": "case0072"
+  },
+  {
+    "label": 1,
+    "group": "group0033",
+    "task_id": "case0073"
+  },
+  {
+    "label": 1,
+    "group": "group0042",
+    "task_id": "case0074"
+  },
+  {
+    "label": 1,
+    "group": "group0043",
+    "task_id": "case0075"
+  },
+  {
+    "label": 1,
+    "group": "group0016",
+    "task_id": "case0076"
+  },
+  {
+    "label": 1,
+    "group": "group0028",
+    "task_id": "case0077"
+  },
+  {
+    "label": 0,
+    "group": "group0049",
+    "task_id": "case0078"
+  },
+  {
+    "label": 0,
+    "group": "group0032",
+    "task_id": "case0079"
+  },
+  {
+    "label": 1,
+    "group": "group0002",
+    "task_id": "case0080"
+  },
+  {
+    "label": 1,
+    "group": "group0055",
+    "task_id": "case0081"
+  },
+  {
+    "label": 1,
+    "group": "group0051",
+    "task_id": "case0082"
+  },
+  {
+    "label": 1,
+    "group": "group0005",
+    "task_id": "case0083"
+  },
+  {
+    "label": 0,
+    "group": "group0020",
+    "task_id": "case0084"
+  },
+  {
+    "label": 1,
+    "group": "group0026",
+    "task_id": "case0085"
+  },
+  {
+    "label": 1,
+    "group": "group0025",
+    "task_id": "case0086"
+  },
+  {
+    "label": 1,
+    "group": "group0054",
+    "task_id": "case0087"
+  },
+  {
+    "label": 1,
+    "group": "group0010",
+    "task_id": "case0088"
+  },
+  {
+    "label": 1,
+    "group": "group0051",
+    "task_id": "case0089"
+  },
+  {
+    "label": 1,
+    "group": "group0055",
+    "task_id": "case0090"
+  },
+  {
+    "label": 1,
+    "group": "group0056",
+    "task_id": "case0091"
+  },
+  {
+    "label": 1,
+    "group": "group0053",
+    "task_id": "case0092"
+  },
+  {
+    "label": 1,
+    "group": "group0049",
+    "task_id": "case0093"
+  },
+  {
+    "label": 1,
+    "group": "group0029",
+    "task_id": "case0094"
+  },
+  {
+    "label": 0,
+    "group": "group0011",
+    "task_id": "case0095"
+  },
+  {
+    "label": 1,
+    "group": "group0011",
+    "task_id": "case0096"
+  },
+  {
+    "label": 1,
+    "group": "group0008",
+    "task_id": "case0097"
+  },
+  {
+    "label": 1,
+    "group": "group0048",
+    "task_id": "case0098"
+  },
+  {
+    "label": 1,
+    "group": "group0007",
+    "task_id": "case0099"
+  },
+  {
+    "label": 1,
+    "group": "group0000",
+    "task_id": "case0100"
+  },
+  {
+    "label": 1,
+    "group": "group0042",
+    "task_id": "case0101"
+  },
+  {
+    "label": 0,
+    "group": "group0051",
+    "task_id": "case0102"
+  },
+  {
+    "label": 1,
+    "group": "group0026",
+    "task_id": "case0103"
+  },
+  {
+    "label": 0,
+    "group": "group0015",
+    "task_id": "case0104"
+  },
+  {
+    "label": 1,
+    "group": "group0034",
+    "task_id": "case0105"
+  },
+  {
+    "label": 1,
+    "group": "group0010",
+    "task_id": "case0106"
+  },
+  {
+    "label": 1,
+    "group": "group0027",
+    "task_id": "case0107"
+  },
+  {
+    "label": 1,
+    "group": "group0026",
+    "task_id": "case0108"
+  },
+  {
+    "label": 1,
+    "group": "group0049",
+    "task_id": "case0109"
+  },
+  {
+    "label": 1,
+    "group": "group0032",
+    "task_id": "case0110"
+  },
+  {
+    "label": 0,
+    "group": "group0028",
+    "task_id": "case0111"
+  },
+  {
+    "label": 1,
+    "group": "group0055",
+    "task_id": "case0112"
+  },
+  {
+    "label": 0,
+    "group": "group0007",
+    "task_id": "case0113"
+  },
+  {
+    "label": 0,
+    "group": "group0008",
+    "task_id": "case0114"
+  },
+  {
+    "label": 0,
+    "group": "group0005",
+    "task_id": "case0115"
+  },
+  {
+    "label": 1,
+    "group": "group0015",
+    "task_id": "case0116"
+  },
+  {
+    "label": 1,
+    "group": "group0000",
+    "task_id": "case0117"
+  },
+  {
+    "label": 1,
+    "group": "group0018",
+    "task_id": "case0118"
+  },
+  {
+    "label": 1,
+    "group": "group0034",
+    "task_id": "case0119"
+  },
+  {
+    "label": 1,
+    "group": "group0048",
+    "task_id": "case0120"
+  },
+  {
+    "label": 1,
+    "group": "group0027",
+    "task_id": "case0121"
+  },
+  {
+    "label": 1,
+    "group": "group0001",
+    "task_id": "case0122"
+  },
+  {
+    "label": 1,
+    "group": "group0021",
+    "task_id": "case0123"
+  },
+  {
+    "label": 1,
+    "group": "group0025",
+    "task_id": "case0124"
+  },
+  {
+    "label": 1,
+    "group": "group0056",
+    "task_id": "case0125"
+  },
+  {
+    "label": 1,
+    "group": "group0056",
+    "task_id": "case0126"
+  },
+  {
+    "label": 0,
+    "group": "group0006",
+    "task_id": "case0127"
+  },
+  {
+    "label": 1,
+    "group": "group0052",
+    "task_id": "case0128"
+  },
+  {
+    "label": 1,
+    "group": "group0037",
+    "task_id": "case0129"
+  },
+  {
+    "label": 1,
+    "group": "group0048",
+    "task_id": "case0130"
+  },
+  {
+    "label": 1,
+    "group": "group0044",
+    "task_id": "case0131"
+  },
+  {
+    "label": 1,
+    "group": "group0033",
+    "task_id": "case0132"
+  },
+  {
+    "label": 1,
+    "group": "group0037",
+    "task_id": "case0133"
+  },
+  {
+    "label": 1,
+    "group": "group0021",
+    "task_id": "case0134"
+  },
+  {
+    "label": 1,
+    "group": "group0008",
+    "task_id": "case0135"
+  },
+  {
+    "label": 0,
+    "group": "group0037",
+    "task_id": "case0136"
+  },
+  {
+    "label": 0,
+    "group": "group0016",
+    "task_id": "case0137"
+  },
+  {
+    "label": 1,
+    "group": "group0008",
+    "task_id": "case0138"
+  },
+  {
+    "label": 0,
+    "group": "group0042",
+    "task_id": "case0139"
+  },
+  {
+    "label": 1,
+    "group": "group0012",
+    "task_id": "case0140"
+  },
+  {
+    "label": 1,
+    "group": "group0014",
+    "task_id": "case0141"
+  },
+  {
+    "label": 1,
+    "group": "group0024",
+    "task_id": "case0142"
+  },
+  {
+    "label": 1,
+    "group": "group0040",
+    "task_id": "case0143"
+  },
+  {
+    "label": 0,
+    "group": "group0030",
+    "task_id": "case0144"
+  },
+  {
+    "label": 1,
+    "group": "group0003",
+    "task_id": "case0145"
+  },
+  {
+    "label": 0,
+    "group": "group0039",
+    "task_id": "case0146"
+  },
+  {
+    "label": 0,
+    "group": "group0050",
+    "task_id": "case0147"
+  },
+  {
+    "label": 1,
+    "group": "group0050",
+    "task_id": "case0148"
+  },
+  {
+    "label": 1,
+    "group": "group0003",
+    "task_id": "case0149"
+  },
+  {
+    "label": 0,
+    "group": "group0031",
+    "task_id": "case0150"
+  },
+  {
+    "label": 1,
+    "group": "group0039",
+    "task_id": "case0151"
+  },
+  {
+    "label": 0,
+    "group": "group0022",
+    "task_id": "case0152"
+  },
+  {
+    "label": 1,
+    "group": "group0024",
+    "task_id": "case0153"
+  },
+  {
+    "label": 1,
+    "group": "group0030",
+    "task_id": "case0154"
+  },
+  {
+    "label": 1,
+    "group": "group0030",
+    "task_id": "case0155"
+  },
+  {
+    "label": 0,
+    "group": "group0003",
+    "task_id": "case0156"
+  },
+  {
+    "label": 1,
+    "group": "group0004",
+    "task_id": "case0157"
+  },
+  {
+    "label": 1,
+    "group": "group0030",
+    "task_id": "case0158"
+  },
+  {
+    "label": 1,
+    "group": "group0004",
+    "task_id": "case0159"
+  },
+  {
+    "label": 1,
+    "group": "group0040",
+    "task_id": "case0160"
+  },
+  {
+    "label": 1,
+    "group": "group0012",
+    "task_id": "case0161"
+  },
+  {
+    "label": 0,
+    "group": "group0014",
+    "task_id": "case0162"
+  },
+  {
+    "label": 1,
+    "group": "group0024",
+    "task_id": "case0163"
+  },
+  {
+    "label": 1,
+    "group": "group0039",
+    "task_id": "case0164"
+  },
+  {
+    "label": 1,
+    "group": "group0041",
+    "task_id": "case0165"
+  },
+  {
+    "label": 1,
+    "group": "group0031",
+    "task_id": "case0166"
+  },
+  {
+    "label": 1,
+    "group": "group0039",
+    "task_id": "case0167"
+  },
+  {
+    "label": 1,
+    "group": "group0009",
+    "task_id": "case0168"
+  },
+  {
+    "label": 1,
+    "group": "group0031",
+    "task_id": "case0169"
+  },
+  {
+    "label": 1,
+    "group": "group0041",
+    "task_id": "case0170"
+  },
+  {
+    "label": 0,
+    "group": "group0041",
+    "task_id": "case0171"
+  },
+  {
+    "label": 1,
+    "group": "group0009",
+    "task_id": "case0172"
+  },
+  {
+    "label": 0,
+    "group": "group0009",
+    "task_id": "case0173"
+  },
+  {
+    "label": 1,
+    "group": "group0014",
+    "task_id": "case0174"
+  },
+  {
+    "label": 1,
+    "group": "group0017",
+    "task_id": "case0175"
+  },
+  {
+    "label": 0,
+    "group": "group0017",
+    "task_id": "case0176"
+  },
+  {
+    "label": 1,
+    "group": "group0041",
+    "task_id": "case0177"
+  },
+  {
+    "label": 1,
+    "group": "group0017",
+    "task_id": "case0178"
+  },
+  {
+    "label": 1,
+    "group": "group0040",
+    "task_id": "case0179"
+  },
+  {
+    "label": 1,
+    "group": "group0050",
+    "task_id": "case0180"
+  },
+  {
+    "label": 1,
+    "group": "group0017",
+    "task_id": "case0181"
+  },
+  {
+    "label": 1,
+    "group": "group0012",
+    "task_id": "case0182"
+  },
+  {
+    "label": 0,
+    "group": "group0024",
+    "task_id": "case0183"
+  },
+  {
+    "label": 1,
+    "group": "group0014",
+    "task_id": "case0184"
+  },
+  {
+    "label": 1,
+    "group": "group0050",
+    "task_id": "case0185"
+  },
+  {
+    "label": 1,
+    "group": "group0022",
+    "task_id": "case0186"
+  },
+  {
+    "label": 1,
+    "group": "group0031",
+    "task_id": "case0187"
+  },
+  {
+    "label": 1,
+    "group": "group0003",
+    "task_id": "case0188"
+  },
+  {
+    "label": 0,
+    "group": "group0040",
+    "task_id": "case0189"
+  },
+  {
+    "label": 1,
+    "group": "group0009",
+    "task_id": "case0190"
+  },
+  {
+    "label": 0,
+    "group": "group0012",
+    "task_id": "case0191"
+  },
+  {
+    "label": 1,
+    "group": "group0004",
+    "task_id": "case0192"
+  },
+  {
+    "label": 1,
+    "group": "group0022",
+    "task_id": "case0193"
+  },
+  {
+    "label": 1,
+    "group": "group0022",
+    "task_id": "case0194"
+  },
+  {
+    "label": 0,
+    "group": "group0004",
+    "task_id": "case0195"
+  },
+  {
+    "label": 1,
+    "group": "group0019",
+    "task_id": "case0196"
+  },
+  {
+    "label": 1,
+    "group": "group0036",
+    "task_id": "case0197"
+  },
+  {
+    "label": 1,
+    "group": "group0047",
+    "task_id": "case0198"
+  },
+  {
+    "label": 1,
+    "group": "group0035",
+    "task_id": "case0199"
+  },
+  {
+    "label": 1,
+    "group": "group0035",
+    "task_id": "case0200"
+  },
+  {
+    "label": 1,
+    "group": "group0035",
+    "task_id": "case0201"
+  },
+  {
+    "label": 1,
+    "group": "group0013",
+    "task_id": "case0202"
+  },
+  {
+    "label": 1,
+    "group": "group0013",
+    "task_id": "case0203"
+  },
+  {
+    "label": 1,
+    "group": "group0019",
+    "task_id": "case0204"
+  },
+  {
+    "label": 1,
+    "group": "group0045",
+    "task_id": "case0205"
+  },
+  {
+    "label": 0,
+    "group": "group0023",
+    "task_id": "case0206"
+  },
+  {
+    "label": 0,
+    "group": "group0038",
+    "task_id": "case0207"
+  },
+  {
+    "label": 1,
+    "group": "group0057",
+    "task_id": "case0208"
+  },
+  {
+    "label": 1,
+    "group": "group0019",
+    "task_id": "case0209"
+  },
+  {
+    "label": 1,
+    "group": "group0047",
+    "task_id": "case0210"
+  },
+  {
+    "label": 1,
+    "group": "group0045",
+    "task_id": "case0211"
+  },
+  {
+    "label": 0,
+    "group": "group0035",
+    "task_id": "case0212"
+  },
+  {
+    "label": 1,
+    "group": "group0023",
+    "task_id": "case0213"
+  },
+  {
+    "label": 1,
+    "group": "group0038",
+    "task_id": "case0214"
+  },
+  {
+    "label": 1,
+    "group": "group0057",
+    "task_id": "case0215"
+  },
+  {
+    "label": 0,
+    "group": "group0019",
+    "task_id": "case0216"
+  },
+  {
+    "label": 1,
+    "group": "group0036",
+    "task_id": "case0217"
+  },
+  {
+    "label": 1,
+    "group": "group0023",
+    "task_id": "case0218"
+  },
+  {
+    "label": 1,
+    "group": "group0023",
+    "task_id": "case0219"
+  },
+  {
+    "label": 0,
+    "group": "group0047",
+    "task_id": "case0220"
+  },
+  {
+    "label": 0,
+    "group": "group0013",
+    "task_id": "case0221"
+  },
+  {
+    "label": 1,
+    "group": "group0036",
+    "task_id": "case0222"
+  },
+  {
+    "label": 1,
+    "group": "group0057",
+    "task_id": "case0223"
+  },
+  {
+    "label": 0,
+    "group": "group0045",
+    "task_id": "case0224"
+  },
+  {
+    "label": 1,
+    "group": "group0045",
+    "task_id": "case0225"
+  },
+  {
+    "label": 0,
+    "group": "group0036",
+    "task_id": "case0226"
+  },
+  {
+    "label": 0,
+    "group": "group0057",
+    "task_id": "case0227"
+  },
+  {
+    "label": 1,
+    "group": "group0013",
+    "task_id": "case0228"
+  },
+  {
+    "label": 1,
+    "group": "group0038",
+    "task_id": "case0229"
+  },
+  {
+    "label": 1,
+    "group": "group0047",
+    "task_id": "case0230"
+  },
+  {
+    "label": 1,
+    "group": "group0038",
+    "task_id": "case0231"
+  }
+]
